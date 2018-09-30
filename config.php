@@ -5,13 +5,12 @@ return [
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
         'title' => 'MakerBothy',
-        'description' => 'Personal blog of John Doe.',
+        'description' => 'Personal blog of lmconnelly.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'lmconnelly',
+        'github' => 'lmconnelly',
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
